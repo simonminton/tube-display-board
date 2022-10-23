@@ -28,7 +28,7 @@ module.exports = {
   },
   plugins: [],
   safelist: [
-    "bg-bakerloo", 
+    "bg-bakerloo",
     "bg-central",
     "bg-circle",
     "bg-district",
@@ -64,5 +64,6 @@ module.exports = {
     "border-london-overground",
     "border-tram",
     "border-emirates-cable-car",
+    "bg-gray-900",
   ],
 };
